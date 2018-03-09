@@ -1,0 +1,1 @@
+整理了不同的机型build.prop 用于android适配工作
